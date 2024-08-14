@@ -1,0 +1,12 @@
+INTERNET-provide a route/path to share the data accreoss the world
+Connection of internet-through submarine cables
+Website-Set of solution of a problem which is available on a internet
+Web application- one of the set of website(selection of webpages)
+Web pages-A single functionality/ user interface of a web app(HTML,CSS,JS)
+GIT BASH Command-
+1. git init-to create initialized repository
+2. git add .-dot represnts all changes
+ git add./filename.txt- sinle changes
+3 git commit -m "xyz"
+   to push changes/code in local repository
+   -m "xyz"-denote message/tittle/desciption

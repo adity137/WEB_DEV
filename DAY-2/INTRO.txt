@@ -1,0 +1,42 @@
+HTML-hyper text markup language
+HYPER TEXT= words that connect different pages
+file=fileName.HTML
+HTML BOILERPLATE=
+1-Doctype=latest version of HTML
+2-html=to maintain the structure
+  1. head=to send the information to the browser
+      ->meta=it store the information about the web pages
+      ->tittle=title of website
+  2. body=to show content on browser screen(viewport)
+     TAGS AND ELEMENT--------->>>>>>>>
+     TWO tags->>
+     1.opening closing tag 2.self closing tag
+
+     ------FORM----
+     1--->>>>INPUT-To take particular data from users
+         ---->>LABEL-notify user which field to fill in INPUT
+    2 button-to submit form
+
+    ATTRIBUTE--->>>
+    .To active a particular inbuild properly of a tag
+    -->input attribute=
+    1 required- to make input complusary to fill
+    2 minlength-
+    3 maxlength
+    if type number
+    4.min
+    5.max
+    ### Id-To give unique properly/name to tag
+    ### class-to group elements
+    ------->>>>>>>LIST<<<<-----
+    1. ordered ist <ol></ol>
+    2. unordered list<ul></ul>
+    ---------------------------------------------------------------------------------
+    ----->>>>>MEDIA TAG<<<<<<----
+    1.image
+    2.audio
+    3.vedio
+    4.iframe->web page,vedio,
+
+
+
